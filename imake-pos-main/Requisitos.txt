@@ -1,0 +1,14 @@
+Esta é uma atividade prática utilizando um projeto exemplo em Flutter. Nela você irá desenvolver um projeto prático com flutter. 
+Para isso, baixe o projeto IMAKE do github  e realize as seguintes alterações no projeto: 
+Clique aqui e baixe o projeto IMAKE do github.
+
+ok -(1,50) Adicionar uma tela de login com e-mail e senha. Não precisa autenticar no banco de dados;
+ok -(1,00) Adicionar um atributo chamado detail, na tarefa, do tipo String;
+ok -(1,00) Corrigir os erros no arquivo tasks_bloc.dart;
+ok -(1,00) Trocar o ícone da aplicação para Android;
+ok -(1,50) Corrija as rotas para que seja possível acessar a tela de splash. Ela deve ser a primeira tela a abrir;
+ok -(1,50) Adicionar uma tela sobre com informações dos desenvolvedores;
+ok -(1,00) Trocar o nome do app para Android;
+Não implementado  (1,50) Implementar a ordenação de tarefas por data.
+
+O projeto corrigido deve ser disponibilizado em um repositório github pessoal. Entregue/envie somente o link do repositório do github.
